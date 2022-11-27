@@ -1,4 +1,4 @@
-# [MusicMania](https://github.com/apna) Server (Project: MusicMania)
+# [MusicMania](https://github.com/AmishaGuddi/MusicMania) Server (Project: MusicMania)
 
 ## Local setup instructions
 + Setup virtual environment
